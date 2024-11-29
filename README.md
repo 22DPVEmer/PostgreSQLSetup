@@ -35,9 +35,5 @@ sudo -u postgres createdb testdb
 sudo -u postgres psql
 \password postgres
 ```
-### 6. Porta pārbaude
-```
-ss -nlt | grep 5432 # Lai pārbaudītu statusu, jābūt 200
-```
 
 
