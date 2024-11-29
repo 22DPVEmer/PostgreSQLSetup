@@ -10,7 +10,6 @@
 ### 1. Atjaunot pakotņu sarakstus
 ```bash
 sudo apt update # Atjaunina pieejamās pakotnes 
-sudo apt upgrade # Atjaunina pakotnes uz jaunākajām pakotnēm
 ```
 ### 2. Instalēt PostgreSQL
 ```
